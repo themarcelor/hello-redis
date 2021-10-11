@@ -3,7 +3,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/themarcelor/helloworld/redisstuff"
+    "github.com/themarcelor/hello-redis/redisstuff"
 )
 
 func helloworld() string {

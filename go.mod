@@ -1,4 +1,4 @@
-module github.com/themarcelor/helloworld
+module github.com/themarcelor/hello-redis
 
 go 1.17
 
